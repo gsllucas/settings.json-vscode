@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 20,
+    "editor.fontFamily": "Menlo Regular",
+    "editor.fontWeight": "bold",
+    "editor.letterSpacing": 0,
+    "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+    "bracket-pair-colorizer-2.showVerticalScopeLine": false,
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingBrackets": false,
+    "editor.suggestOnTriggerCharacters": true,
+    "window.zoomLevel": 00,
+    "workbench.colorTheme": "Dracula",
+    "workbench.preferredDarkColorTheme": "Dracula",
+    "workbench.preferredHighContrastColorTheme": "Dracula",
+    "workbench.preferredLightColorTheme": "Dracula"
+}
